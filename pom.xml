@@ -11,6 +11,7 @@
     <modules>
         <module>bigdata-zookeeper</module>
         <module>bigdata-redis</module>
+        <module>bigdata-java</module>
     </modules>
 
 
