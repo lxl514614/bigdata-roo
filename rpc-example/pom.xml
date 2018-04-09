@@ -17,5 +17,6 @@
         <module>rpc-example-server</module>
     </modules>
 
+    <description>自建rpc框架-demo模块</description>
 
 </project>
