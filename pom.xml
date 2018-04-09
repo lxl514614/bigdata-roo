@@ -12,6 +12,11 @@
         <module>bigdata-zookeeper</module>
         <module>bigdata-redis</module>
         <module>bigdata-java</module>
+        <module>rpc-server</module>
+        <module>rpc-client</module>
+        <module>rpc-common</module>
+        <module>rpc-registry</module>
+        <module>rpc-example</module>
     </modules>
 
 
