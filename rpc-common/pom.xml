@@ -14,4 +14,14 @@
     <description>自建rpc框架-基础工具包模块</description>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+    </dependencies>
+
+
+
 </project>

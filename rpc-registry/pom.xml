@@ -13,4 +13,13 @@
     <artifactId>rpc-registry</artifactId>
     <description>自建rpc框架-注册中心模块</description>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.zookeeper</groupId>
+            <artifactId>zookeeper</artifactId>
+            <version>3.4.6</version>
+        </dependency>
+        
+    </dependencies>
+
 </project>
